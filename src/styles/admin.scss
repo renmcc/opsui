@@ -1,0 +1,13 @@
+.el-table .el-table__header-wrapper th {
+  word-break: break-word;
+  background-color: #f8f8f9;
+  color: #515a6e;
+  height: 40px;
+  // font-size: 13px;
+}
+
+.el-tooltip__popper {
+  font-size: 14px;
+  max-width: 50%;
+  white-space: pre-wrap;
+}
